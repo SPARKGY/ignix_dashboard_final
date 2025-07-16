@@ -1,0 +1,50 @@
+[
+  {
+    "TAG": "TAG001",
+    "SISTEMA": "Sistema A",
+    "SUBSISTEMA": "Subsistema A1",
+    "ACTIVIDADES": {
+      "ACTIVIDAD": "Actividad 1",
+      "PRECOM/COM": "Precom"
+    },
+    "FORMULARIO": "Formulario 1",
+    "DISCIPLINA": "Disciplina 1",
+    "IMPRESO": "Sí",
+    "ESCANEADO": "Existe",
+    "FECHA REQUERIDA": "2023-10-01",
+    "SKID": "SKID001",
+    "LUGAR EJECUCION": "Lugar 1"
+  },
+  {
+    "TAG": "TAG002",
+    "SISTEMA": "Sistema B",
+    "SUBSISTEMA": "Subsistema B1",
+    "ACTIVIDADES": {
+      "ACTIVIDAD": "Actividad 2",
+      "PRECOM/COM": "Com"
+    },
+    "FORMULARIO": "Formulario 2",
+    "DISCIPLINA": "Disciplina 2",
+    "IMPRESO": "No",
+    "ESCANEADO": "No existe",
+    "FECHA REQUERIDA": "2023-10-05",
+    "SKID": "SKID002",
+    "LUGAR EJECUCION": "Lugar 2"
+  },
+  {
+    "TAG": "TAG003",
+    "SISTEMA": "Sistema C",
+    "SUBSISTEMA": "Subsistema C1",
+    "ACTIVIDADES": {
+      "ACTIVIDAD": "Actividad 3",
+      "PRECOM/COM": "Precom"
+    },
+    "FORMULARIO": "Formulario 3",
+    "DISCIPLINA": "Disciplina 3",
+    "IMPRESO": "Sí",
+    "ESCANEADO": "Existe",
+    "FECHA REQUERIDA": "2023-10-10",
+    "SKID": "SKID003",
+    "LUGAR EJECUCION": "Lugar 3"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "ignix_dashboard_final",
+  "version": "1.0.0",
+  "description": "Dashboard interactivo para monitorear el estado de formularios de precomisionado y comisionado.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "dashboard",
+    "formularios"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {},
+  "homepage": "https://<tu-usuario>.github.io/<nombre-del-repositorio>/"
+}
