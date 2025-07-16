@@ -53,62 +53,65 @@ const Dashboard = () => {
   }, [filter, data]);
 
   const getUnique = (key) => [...new Set(data.map((item) => item[key]).filter(Boolean))];
-  const total = data.length;
-  const recibidos = data.filter((d) => d.ESCANEADO?.toLowerCase().includes("existe")).length;
+  // Indicadores basados en los datos filtrados
+  const total = filtered.length;
+  const recibidos = filtered.filter((d) => d.ESCANEADO?.toLowerCase() === "existe").length;
+  const pendientes = filtered.filter((d) => d.ESCANEADO?.toLowerCase() === "no existe").length;
+  const porcentaje = total > 0 ? ((recibidos / total) * 100).toFixed(1) : "0.0";
 
   return (
     <div style={{ padding: '2rem' }}>
       {/* Encabezado con título */}
-      <h1>IGNIX Comm Suite – Estado de Formularios</h1>
+      <h1>IGNIX Comm Suite – Form Status</h1>
 
       <div className="dashboard-cards">
         <div className="dashboard-card">Total formularios: <strong>{total}</strong></div>
         <div className="dashboard-card">Recibidos: <strong>{recibidos}</strong></div>
-        <div className="dashboard-card">Pendientes: <strong>{total - recibidos}</strong></div>
-        <div className="dashboard-card">% Completado: <strong>{((recibidos / total) * 100).toFixed(1)}%</strong></div>
+        <div className="dashboard-card">Pendientes: <strong>{pendientes}</strong></div>
+        <div className="dashboard-card">% Completado: <strong>{porcentaje}%</strong></div>
       </div>
 
       <div className="filters" style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
         <Input placeholder="Filtrar TAG..." value={filter.tag} onChange={(e) => setFilter({ ...filter, tag: e.target.value })} />
-        <button onClick={() => setFilter({ ...filter, tag: "" })} style={{marginRight: '1rem'}}>Reset TAG</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, subsistema: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, tag: "" }))} style={{marginRight: '1rem'}}>Reset TAG</button>
+        <Select value={filter.subsistema || undefined} onValueChange={(v) => setFilter((prev) => ({ ...prev, subsistema: v }))}>
           <SelectTrigger><SelectValue placeholder="Subsistema" /></SelectTrigger>
           <SelectContent>{getUnique("SUBSISTEMA").map((v) => <SelectItem key={v} value={v}>{v}</SelectItem>)}</SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, subsistema: "" })} style={{marginRight: '1rem'}}>Reset Subsistema</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, actividad: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, subsistema: undefined }))} style={{marginRight: '1rem'}}>Reset Subsistema</button>
+        <Select value={filter.actividad || undefined} onValueChange={(v) => setFilter((prev) => ({ ...prev, actividad: v }))}>
           <SelectTrigger><SelectValue placeholder="Actividad" /></SelectTrigger>
           <SelectContent>{getUnique("ACTIVIDADES.ACTIVIDAD").map((v) => <SelectItem key={v} value={v}>{v}</SelectItem>)}</SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, actividad: "" })} style={{marginRight: '1rem'}}>Reset Actividad</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, estado: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, actividad: undefined }))} style={{marginRight: '1rem'}}>Reset Actividad</button>
+        <Select value={filter.estado === undefined ? '' : filter.estado} onValueChange={(v) => setFilter((prev) => ({ ...prev, estado: v }))}>
           <SelectTrigger><SelectValue placeholder="Estado" /></SelectTrigger>
           <SelectContent>
             <SelectItem value="Existe">Recibido</SelectItem>
             <SelectItem value="No existe">Pendiente</SelectItem>
           </SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, estado: "" })} style={{marginRight: '1rem'}}>Reset Estado</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, precomcom: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, estado: '' }))} style={{marginRight: '1rem'}}>Reset Estado</button>
+        <Select value={filter.precomcom || undefined} onValueChange={(v) => setFilter((prev) => ({ ...prev, precomcom: v }))}>
           <SelectTrigger><SelectValue placeholder="Precom/Com" /></SelectTrigger>
           <SelectContent>{getUnique("ACTIVIDADES.PRECOM/COM").map((v) => <SelectItem key={v} value={v}>{v}</SelectItem>)}</SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, precomcom: "" })} style={{marginRight: '1rem'}}>Reset Precom/Com</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, disciplina: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, precomcom: undefined }))} style={{marginRight: '1rem'}}>Reset Precom/Com</button>
+        <Select value={filter.disciplina || undefined} onValueChange={(v) => setFilter((prev) => ({ ...prev, disciplina: v }))}>
           <SelectTrigger><SelectValue placeholder="Disciplina" /></SelectTrigger>
           <SelectContent>{getUnique("DISCIPLINA").map((v) => <SelectItem key={v} value={v}>{v}</SelectItem>)}</SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, disciplina: "" })} style={{marginRight: '1rem'}}>Reset Disciplina</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, skid: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, disciplina: undefined }))} style={{marginRight: '1rem'}}>Reset Disciplina</button>
+        <Select value={filter.skid || undefined} onValueChange={(v) => setFilter((prev) => ({ ...prev, skid: v }))}>
           <SelectTrigger><SelectValue placeholder="Skid" /></SelectTrigger>
           <SelectContent>{getUnique("SKID").map((v) => <SelectItem key={v} value={v}>{v}</SelectItem>)}</SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, skid: "" })} style={{marginRight: '1rem'}}>Reset Skid</button>
-        <Select onValueChange={(v) => setFilter({ ...filter, lugar: v })}>
+        <button onClick={() => setFilter((prev) => ({ ...prev, skid: undefined }))} style={{marginRight: '1rem'}}>Reset Skid</button>
+        <Select value={filter.lugar || undefined} onValueChange={(v) => setFilter((prev) => ({ ...prev, lugar: v }))}>
           <SelectTrigger><SelectValue placeholder="Lugar Ejecución" /></SelectTrigger>
           <SelectContent>{getUnique("LUGAR EJECUCION").map((v) => <SelectItem key={v} value={v}>{v}</SelectItem>)}</SelectContent>
         </Select>
-        <button onClick={() => setFilter({ ...filter, lugar: "" })} style={{marginRight: '1rem'}}>Reset Lugar Ejecución</button>
+        <button onClick={() => setFilter((prev) => ({ ...prev, lugar: undefined }))} style={{marginRight: '1rem'}}>Reset Lugar Ejecución</button>
       </div>
 
       <div style={{ marginTop: '2rem' }}>
