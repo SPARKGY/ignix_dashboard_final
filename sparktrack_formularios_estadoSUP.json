@@ -1,0 +1,1302 @@
+[
+  {
+    "TAG": "XXXXXX",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "LG-11003",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11007",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11023",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11027",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11003",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11007",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11023",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LG-11027",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11011",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11031",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11043",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11045",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11047",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11049",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81012",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81014",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81016",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81018",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+    "FORMULARIO": "M_C-IN-14",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11011",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11031",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11043",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11045",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11047",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-11049",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81012",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81014",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81016",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PI-81018",
+    "SISTEMA": 172,
+    "SUBSISTEMA": "172-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "TI-11044",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Indicador_local_de_temperatura",
+    "FORMULARIO": "M_C-IN-15",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "TI-11044",
+    "SISTEMA": 123,
+    "SUBSISTEMA": "123-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11012",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11015",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-21001",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11032",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11035",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-21004",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11012",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11015",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-21001",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11032",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-11035",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "FIT-21004",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11004",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11006",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11008",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11009",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11024",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11026",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11028",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11029",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11004",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11006",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11008",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11009",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11024",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11026",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11028",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LIT-11029",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11001",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11010",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11021",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11030",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11039",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11041",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Instrumento_electrico",
+    "FORMULARIO": "M_C-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11001",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11010",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11021",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11030",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11039",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PIT-11041",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_instrumento_analogico",
+    "FORMULARIO": "M_T-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "TIT-11005",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Transmisor_de_temperatura-multivariable",
+    "FORMULARIO": "M_C-IN-04",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "TIT-11025",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Transmisor_de_temperatura-multivariable",
+    "FORMULARIO": "M_C-IN-04",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "TIT-11046",
+    "SISTEMA": 120,
+    "SUBSISTEMA": "120-001",
+    "ACTIVIDADES.ACTIVIDAD": "Transmisor_de_temperatura-multivariable",
+    "FORMULARIO": "M_C-IN-04",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-11016",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvula_de_control-tipo_neumatico-hidraulico",
+    "FORMULARIO": "M_C-IN-19",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-11036",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvula_de_control-tipo_neumatico-hidraulico",
+    "FORMULARIO": "M_C-IN-19",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-21002",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvula_de_control-tipo_neumatico-hidraulico",
+    "FORMULARIO": "M_C-IN-19",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-21005",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvula_de_control-tipo_neumatico-hidraulico",
+    "FORMULARIO": "M_C-IN-19",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PV-11013",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvula_de_control-tipo_neumatico-hidraulico",
+    "FORMULARIO": "M_C-IN-19",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PV-11033",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvula_de_control-tipo_neumatico-hidraulico",
+    "FORMULARIO": "M_C-IN-19",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-11016",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_de_control",
+    "FORMULARIO": "M_T-IN-02",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-11036",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_de_control",
+    "FORMULARIO": "M_T-IN-02",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-21002",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_de_control",
+    "FORMULARIO": "M_T-IN-02",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "LV-21005",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_de_control",
+    "FORMULARIO": "M_T-IN-02",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PV-11013",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_de_control",
+    "FORMULARIO": "M_T-IN-02",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PV-11033",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_de_control",
+    "FORMULARIO": "M_T-IN-02",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11002",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_on-off",
+    "FORMULARIO": "M_FT-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11017",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_on-off",
+    "FORMULARIO": "M_FT-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11022",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_on-off",
+    "FORMULARIO": "M_FT-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11037",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_on-off",
+    "FORMULARIO": "M_FT-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-21003",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_on-off",
+    "FORMULARIO": "M_FT-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-21006",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_on-off",
+    "FORMULARIO": "M_FT-IN-05",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11002",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_on-off_actuada",
+    "FORMULARIO": "M_T-IN-03",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11017",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_on-off_actuada",
+    "FORMULARIO": "M_T-IN-03",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11022",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_on-off_actuada",
+    "FORMULARIO": "M_T-IN-03",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-11037",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_on-off_actuada",
+    "FORMULARIO": "M_T-IN-03",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-21003",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_on-off_actuada",
+    "FORMULARIO": "M_T-IN-03",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "SDV-21006",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Test_de_valvula_on-off_actuada",
+    "FORMULARIO": "M_T-IN-03",
+    "DISCIPLINA": "IN",
+    "ACTIVIDADES.PRECOM/COM": "PRECOM",
+    "ESCANEADO": "Existe"
+  },
+  {
+    "TAG": "PSV-11018A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_a",
+    "FORMULARIO": "M_PVP-07A",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_b",
+    "FORMULARIO": "M_PVP-07B",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_c",
+    "FORMULARIO": "M_PVP-07C",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11018B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11020B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038A",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11038B",
+    "SISTEMA": 110,
+    "SUBSISTEMA": "110-001",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040A",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  },
+  {
+    "TAG": "PSV-11040B",
+    "SISTEMA": 111,
+    "SUBSISTEMA": "111-002",
+    "ACTIVIDADES.ACTIVIDAD": "Valvulas_de_bloqueo_de_psv_d",
+    "FORMULARIO": "M_PVP-07D",
+    "DISCIPLINA": "PVP",
+    "ACTIVIDADES.PRECOM/COM": "COM",
+    "ESCANEADO": "No existe"
+  }
+]
