@@ -28,11 +28,42 @@ const Dashboard = () => {
   const [filter, setFilter] = useState({ tag: "", subsistema: "", actividad: "", estado: "", precomcom: "", disciplina: "", skid: "", lugar: "" });
 
   useEffect(() => {
-    fetch("sparktrack_formularios_estado.json")
-      .then((res) => res.json())
+    console.log("Intentando cargar datos...");
+    fetch("/sparktrack_formularios_estado.json")
+      .then((res) => {
+        console.log("Respuesta del fetch:", res.status, res.statusText);
+        if (!res.ok) {
+          throw new Error(`HTTP error! status: ${res.status}`);
+        }
+        return res.json();
+      })
       .then((json) => {
+        console.log("Datos cargados:", json.length, "registros");
         setData(json);
         setFiltered(json);
+      })
+      .catch((error) => {
+        console.error("Error cargando datos:", error);
+        // Datos de ejemplo para debugging
+        const mockData = [
+          {
+            "TAG": "TEST-001",
+            "SISTEMA": 111,
+            "SUBSISTEMA": "111-001",
+            "ACTIVIDADES.ACTIVIDAD": "Indicador_local",
+            "FORMULARIO": "M_C-IN-14",
+            "DISCIPLINA": "IN",
+            "ACTIVIDADES.PRECOM/COM": "PRECOM",
+            "IMPRESO": "Existe - Creado el: 10/6/2025 14:31:48",
+            "ESCANEADO": "Existe",
+            "FECHA REQUERIDA": "2025-12-10 00:00:00",
+            "SKID": "SKID #1101",
+            "LUGAR EJECUCION": "CPF2-MATA MORA"
+          }
+        ];
+        console.log("Usando datos de ejemplo:", mockData);
+        setData(mockData);
+        setFiltered(mockData);
       });
   }, []);
 
